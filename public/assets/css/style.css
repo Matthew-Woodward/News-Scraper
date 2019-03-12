@@ -1,0 +1,104 @@
+body, html {
+    height: 100%;
+}
+
+.titleJumbotron {
+    margin: 0px;center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.headerDivJumbotron {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    border: 5px solid black;
+    padding: 20px;
+}
+
+#headerJumbotron {
+    font-size: 50px;
+    border-bottom: 2px solid black;
+    
+}
+
+#subheaderJumbotron {
+        font-size: 30px
+}
+
+#navbar {
+    
+	padding: 10px 30px 10px 30px;
+		overflow: hidden;
+}
+
+.navLink {
+    color: black;
+    margin-right: 50px;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+    z-index: 2;
+}
+
+.card-header {
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.card-body {
+    border: 2px solid black;
+}
+
+.headlineLink {
+    text-decoration: none;
+    color: white
+}
+
+
+.articleImage {
+    width: 100%
+}
+
+.buttonColumn {
+    margin-right: 0px
+}
+
+.saveArticleButton {
+    margin-top: 10px;
+    padding: 10px;
+    }
+
+.modal-header {
+    
+    color: white;
+    }
+
+.buttonRow {
+    margin-top: 10px
+}
+
+#titleinput,
+#bodyinput {
+    width: 100%
+}
+
+.articleContainer {
+    padding-bottom: 50px;
+    padding-top: 20px
+}
+
+.noteCard {
+    display: block;
+    width: 100%
+}
+
+.noteCardBody {
+    color: black
+}
